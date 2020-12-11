@@ -1,3 +1,4 @@
+Chaper 1.
 ##The Golden Rule of Test-Driven Development
 Never write new functionality without a failing test.
 
@@ -5,3 +6,15 @@ Never write new functionality without a failing test.
 Acceptance: Does the whole system work?
 Integration: Does our code work against code we can't change?
 Unit: Do our objects do the right thing, are they convenient to work with?
+
+The code must be loosely coupled and highly cohesive!
+
+Что я могу сказать о прочитанном? Тесты бывают разные,но вкупе они должны давать нам уверенность в том, что наш код работает так как мы думаем, что он работает)
+Тесты это не только про функциональность кода, но и про дизайн!
+
+
+Chapter 2.
+Follow the messages.
+Tell, don't ask...
+but sometimes ask
+Mock objects
