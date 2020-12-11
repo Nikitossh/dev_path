@@ -1,0 +1,7 @@
+##The Golden Rule of Test-Driven Development
+Never write new functionality without a failing test.
+
+##Levels of Testing
+Acceptance: Does the whole system work?
+Integration: Does our code work against code we can't change?
+Unit: Do our objects do the right thing, are they convenient to work with?
